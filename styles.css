@@ -5,3 +5,9 @@ body{
 ul{
 list-style:none;
 }
+.player_one{
+	background-color: #cccccc;
+}
+.player_two{
+	background-color:#cccccc;
+}
