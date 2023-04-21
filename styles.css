@@ -6,8 +6,10 @@ ul{
 list-style:none;
 }
 .player_one{
-	background-color: #cccccc;
+	
+	background-color: #fff;
 }
 .player_two{
-	background-color:#cccccc;
+	background-color:#fff;
+	
 }
